@@ -1,0 +1,13 @@
+
+Description:
+
+I chose to create the game Go Fish for my program. My program allows multiple people to play Go Fish, prompts each player for their name, displays each player their hand, prompts the player when they need to "Go Fish", and shuffles the deck automatically.
+
+Instructions:
+
+To play Go Fish with my program all that is needed is to run the file.
+
+
+Output:
+
+The output I have submitted through Canvas. I genuinely could not get a screenshot on this document.
